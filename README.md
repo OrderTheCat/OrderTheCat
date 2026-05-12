@@ -34,3 +34,4 @@ Kde Plasma
 ## Contact
 - Email: `simplelogin-newsletter.overlying459@simplelogin.com`
 - Discord: `order560`
+- Matrix: `@orderthecat:matrix.org`
