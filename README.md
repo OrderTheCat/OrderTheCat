@@ -27,7 +27,7 @@ fedora
 **Desktop Environment**:
 
 ```bash
-Kde Plasma
+kde plasma
 ```
 
 
