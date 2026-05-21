@@ -30,6 +30,12 @@ fedora
 kde plasma
 ```
 
+**Web Browser**:
+
+```bash
+brave origin (nightly)
+```
+
 
 ## Contact
 - Email: `simplelogin-newsletter.overlying459@simplelogin.com`
