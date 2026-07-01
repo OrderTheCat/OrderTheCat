@@ -21,7 +21,7 @@ kitty
 **Linux Distribution**:
 
 ```bash
-fedora
+arch linux (cachyos)
 ```
 
 **Desktop Environment**:
@@ -33,7 +33,7 @@ kde plasma
 **Web Browser**:
 
 ```bash
-brave origin (nightly)
+firefox
 ```
 
 
