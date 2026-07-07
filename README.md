@@ -33,7 +33,7 @@ kde plasma
 **Web Browser**:
 
 ```bash
-firefox
+helium
 ```
 
 
