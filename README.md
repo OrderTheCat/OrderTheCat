@@ -1,7 +1,6 @@
 hellooo, im order!
 
 Here's my setup if you are interested!!
-## Setup:
 
 **Shell**:
 
