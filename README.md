@@ -23,5 +23,5 @@ kde plasma
 
 ## Contact
 - Email: `simplelogin-newsletter.overlying459@simplelogin.com`
-- Discord: `order560`
-- Matrix: `@orderthecat:matrix.org`
+- Discord: `strawberrymeowww`
+- Matrix: `@strawberrymeow:matrix.org`
