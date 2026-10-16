@@ -1,9 +1,6 @@
-# Hi, I'm Order
+hellooo, im order!
 
-- I’m learning programming
-- I’m interested in anime and technology
-- I enjoy building small projects
-
+Here's my setup if you are interested!!
 ## Setup:
 
 **Shell**:
@@ -18,22 +15,10 @@ fish
 kitty
 ```
 
-**Linux Distribution**:
-
-```bash
-arch linux (cachyos)
-```
-
 **Desktop Environment**:
 
 ```bash
 kde plasma
-```
-
-**Web Browser**:
-
-```bash
-helium
 ```
 
 
