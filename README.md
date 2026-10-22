@@ -23,7 +23,7 @@ kde plasma
 **Terminal font**:
 
 ```bash
-Iosevka Nerd Font
+iosevka nerd font
 ```
 
 
