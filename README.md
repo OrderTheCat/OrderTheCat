@@ -20,6 +20,14 @@ kitty
 kde plasma
 ```
 
+**Terminal font**:
+
+```bash
+Iosevka Nerd Font
+```
+
+
+
 
 ## Contact
 - Email: `simplelogin-newsletter.overlying459@simplelogin.com`
